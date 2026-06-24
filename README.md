@@ -1,5 +1,9 @@
 # C Programming Practice Journey
 
+![Language](https://img.shields.io/badge/Language-C-blue)
+![Progress](https://img.shields.io/badge/Progress-Day%201-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 ## Overview
 
 Welcome to my C Programming Practice Repository.
