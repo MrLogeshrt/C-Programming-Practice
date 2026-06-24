@@ -37,7 +37,7 @@ The learning plan is divided into multiple phases covering fundamental to interm
 | Day    | Focus Area                      | Status      |
 | ------ | ------------------------------- | ----------- |
 | Day 01 | C Programming Fundamentals      | ✅ Completed |
-| Day 02 | Decision Making Statements      | ⏳ Pending   |
+| Day 02 | Decision Making Statements      | ✅ Completed |
 | Day 03 | Switch Case Statements          | ⏳ Pending   |
 | Day 04 | Loops and Iteration             | ⏳ Pending   |
 | Day 05 | Number-Based Problem Solving    | ⏳ Pending   |
@@ -64,7 +64,9 @@ C-Programming-Practice/
 │
 ├── Day-02/
 │   ├── README.md
-│   ├── Programs
+│   ├── 11_Number_Classification.c
+│   ├── 12_Largest_of_Three_Numbers.c
+│   ├── ...
 │
 ├── Day-03/
 │   ├── README.md
@@ -92,10 +94,10 @@ C-Programming-Practice/
 ## Completed Days
 
 * [x] Day 01
+* [x] Day 02
 
 ## Upcoming Days
 
-* [ ] Day 02
 * [ ] Day 03
 * [ ] Day 04
 * [ ] Day 05
@@ -112,7 +114,7 @@ C-Programming-Practice/
 | Day    | Topics Covered                                                                                         |
 | ------ | ------------------------------------------------------------------------------------------------------ |
 | Day 01 | Variables, Data Types, Input/Output Functions, Arithmetic Operations, Type Casting, Character Handling |
-| Day 02 | To be updated                                                                                          |
+| Day 02 | Decision Making Statements, Nested Conditions, Input Validation, Logical Operators, Real-World Business Logic |
 | Day 03 | To be updated                                                                                          |
 | Day 04 | To be updated                                                                                          |
 | Day 05 | To be updated                                                                                          |
@@ -159,6 +161,14 @@ Throughout this journey, I aim to strengthen my understanding of:
 * Code Optimization
 * Debugging Techniques
 
+# Technologies Used
+
+- C Programming Language
+- GCC Compiler
+- Visual Studio Code
+- Git
+- GitHub
+
 ---
 
 # Coding Standards Followed
@@ -186,6 +196,18 @@ The long-term goal of this repository is to build a strong programming foundatio
 * Device Driver Development
 * Data Structures and Algorithms
 * Technical Interview Preparation
+
+---
+
+# Repository Statistics
+
+| Metric | Count |
+|----------|---------|
+| Total Days Planned | 10 |
+| Days Completed | 2 |
+| Programs Completed | 20 |
+| Language | C |
+| Repository Status | Active Development |
 
 ---
 
