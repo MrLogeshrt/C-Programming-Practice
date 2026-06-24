@@ -1,8 +1,12 @@
 # C Programming Practice Journey
 
 ![Language](https://img.shields.io/badge/Language-C-blue)
-![Progress](https://img.shields.io/badge/Progress-Day%201-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
+
+![Programs](https://img.shields.io/badge/Programs-20%20Completed-success)
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+![Days](https://img.shields.io/badge/Days-2%2F10-orange)
 
 ## Overview
 
