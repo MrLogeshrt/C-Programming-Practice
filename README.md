@@ -1,7 +1,8 @@
 # C Programming Practice Journey
 
 ![Language](https://img.shields.io/badge/Language-C-blue)
-![Progress](https://img.shields.io/badge/Progress-Day%201-green)
+![Programs](https://img.shields.io/badge/Programs-30%20Completed-success)
+![Days](https://img.shields.io/badge/Days-3%2F10-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 ## Overview
@@ -42,7 +43,7 @@ The learning plan is divided into multiple phases covering fundamental to interm
 | ------ | ------------------------------- | ----------- |
 | Day 01 | C Programming Fundamentals      | ✅ Completed |
 | Day 02 | Decision Making Statements      | ✅ Completed |
-| Day 03 | Switch Case Statements          | ⏳ Pending   |
+| Day 03 | Switch Case Statements          | ✅ Completed |
 | Day 04 | Loops and Iteration             | ⏳ Pending   |
 | Day 05 | Number-Based Problem Solving    | ⏳ Pending   |
 | Day 06 | Pattern Programming             | ⏳ Pending   |
@@ -74,7 +75,9 @@ C-Programming-Practice/
 │
 ├── Day-03/
 │   ├── README.md
-│   ├── Programs
+│   ├── 21_Scientific_Calculator.c
+│   ├── 22_Smart_Unit_Converter.c
+│   ├── ...
 │
 ├── Day-04/
 │
@@ -99,10 +102,10 @@ C-Programming-Practice/
 
 * [x] Day 01
 * [x] Day 02
+* [x] Day 03
 
 ## Upcoming Days
 
-* [ ] Day 03
 * [ ] Day 04
 * [ ] Day 05
 * [ ] Day 06
@@ -119,7 +122,7 @@ C-Programming-Practice/
 | ------ | ------------------------------------------------------------------------------------------------------ |
 | Day 01 | Variables, Data Types, Input/Output Functions, Arithmetic Operations, Type Casting, Character Handling |
 | Day 02 | Decision Making Statements, Nested Conditions, Input Validation, Logical Operators, Real-World Business Logic |
-| Day 03 | To be updated                                                                                          |
+| Day 03 | Switch Case Statements, Menu-Driven Programming, Scientific Calculations, Unit Conversions, Information Mapping, Business Logic Implementation, Product Billing Systems |
 | Day 04 | To be updated                                                                                          |
 | Day 05 | To be updated                                                                                          |
 | Day 06 | To be updated                                                                                          |
@@ -157,6 +160,8 @@ Throughout this journey, I aim to strengthen my understanding of:
 * Bitwise Operations
 * File Handling
 * Embedded C Programming Fundamentals
+* Memory Management Concepts
+* Structured Program Design
 
 ### Problem Solving
 
@@ -203,13 +208,27 @@ The long-term goal of this repository is to build a strong programming foundatio
 
 ---
 
+# Milestones Achieved
+
+✅ Completed 30 C Programs
+
+✅ Completed Fundamentals, Decision Making, and Switch Case Concepts
+
+✅ Built Multiple Menu-Driven Applications
+
+✅ Practiced Real-World Business Logic Implementation
+
+✅ Maintained Structured Documentation for Every Program
+
+---
+
 # Repository Statistics
 
 | Metric | Count |
 |----------|---------|
 | Total Days Planned | 10 |
-| Days Completed | 2 |
-| Programs Completed | 20 |
+| Days Completed | 3 |
+| Programs Completed | 30 |
 | Language | C |
 | Repository Status | Active Development |
 
