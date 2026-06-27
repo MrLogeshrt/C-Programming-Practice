@@ -1,8 +1,8 @@
 # C Programming Practice Journey
 
 ![Language](https://img.shields.io/badge/Language-C-blue)
-![Programs](https://img.shields.io/badge/Programs-30%20Completed-success)
-![Days](https://img.shields.io/badge/Days-3%2F10-orange)
+![Programs](https://img.shields.io/badge/Programs-40%20Completed-success)
+![Days](https://img.shields.io/badge/Days-4%2F10-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 
@@ -45,7 +45,7 @@ The learning plan is divided into multiple phases covering fundamental to interm
 | Day 01 | C Programming Fundamentals      | ✅ Completed |
 | Day 02 | Decision Making Statements      | ✅ Completed |
 | Day 03 | Switch Case Statements          | ✅ Completed |
-| Day 04 | Loops and Iteration             | ⏳ Pending   |
+| Day 04 | Loops and Iteration             | ✅ Completed |
 | Day 05 | Number-Based Problem Solving    | ⏳ Pending   |
 | Day 06 | Pattern Programming             | ⏳ Pending   |
 | Day 07 | Arrays                          | ⏳ Pending   |
@@ -81,6 +81,10 @@ C-Programming-Practice/
 │   ├── ...
 │
 ├── Day-04/
+│   ├── README.md
+│   ├── 31_ATM_Pin_Verification.c
+│   ├── 32_Student_Attendance_Tracker.c
+│   ├── ...
 │
 ├── Day-05/
 │
@@ -104,10 +108,10 @@ C-Programming-Practice/
 * [x] Day 01
 * [x] Day 02
 * [x] Day 03
+* [x] Day 04
 
 ## Upcoming Days
 
-* [ ] Day 04
 * [ ] Day 05
 * [ ] Day 06
 * [ ] Day 07
@@ -124,7 +128,7 @@ C-Programming-Practice/
 | Day 01 | Variables, Data Types, Input/Output Functions, Arithmetic Operations, Type Casting, Character Handling |
 | Day 02 | Decision Making Statements, Nested Conditions, Input Validation, Logical Operators, Real-World Business Logic |
 | Day 03 | Switch Case Statements, Menu-Driven Programming, Scientific Calculations, Unit Conversions, Information Mapping, Business Logic Implementation, Product Billing Systems |
-| Day 04 | To be updated                                                                                          |
+| Day 04 | For Loop, While Loop, Do-While Loop, Nested Loops, Break, Continue, Counter-Controlled Iteration, Sentinel-Controlled Iteration, Running Totals, Maximum/Minimum Tracking, Statistical Analysis, Business Logic Applications |
 | Day 05 | To be updated                                                                                          |
 | Day 06 | To be updated                                                                                          |
 | Day 07 | To be updated                                                                                          |
@@ -195,6 +199,23 @@ To maintain consistency and readability across all programs, the following stand
 
 ---
 
+# Repository Highlights
+
+Throughout this journey, the focus has been on writing clean, maintainable, and industry-oriented C programs rather than traditional textbook examples.
+
+Current repository highlights include:
+
+- 40 well-documented C programs
+- Real-world business scenario implementations
+- Menu-driven applications
+- Input validation and error handling
+- Statistical analysis using iterative programming
+- Consistent coding style and documentation
+- Beginner-to-intermediate learning progression
+- Recruiter-friendly GitHub portfolio structure
+
+---
+
 # Long-Term Objective
 
 The long-term goal of this repository is to build a strong programming foundation that supports future learning in:
@@ -211,15 +232,21 @@ The long-term goal of this repository is to build a strong programming foundatio
 
 # Milestones Achieved
 
-✅ Completed 30 C Programs
+✅ Completed 40 C Programs
 
-✅ Completed Fundamentals, Decision Making, and Switch Case Concepts
+✅ Mastered C Programming Fundamentals
+
+✅ Completed Decision Making, Switch Case, and Looping Concepts
+
+✅ Developed Real-World Console-Based Applications
+
+✅ Implemented Statistical Analysis and Business Logic Using Loops
 
 ✅ Built Multiple Menu-Driven Applications
 
-✅ Practiced Real-World Business Logic Implementation
-
 ✅ Maintained Structured Documentation for Every Program
+
+✅ Followed Consistent Coding Standards Across All Programs
 
 ---
 
@@ -228,8 +255,8 @@ The long-term goal of this repository is to build a strong programming foundatio
 | Metric | Count |
 |----------|---------|
 | Total Days Planned | 10 |
-| Days Completed | 3 |
-| Programs Completed | 30 |
+| Days Completed | 4 |
+| Programs Completed | 40 |
 | Language | C |
 | Repository Status | Active Development |
 
@@ -251,4 +278,4 @@ GitHub: **MrLogeshrt**
 
 🚀 Active Development
 
-This repository will be updated regularly as new concepts are learned and additional programming challenges are completed.
+Completed 40 practical C programming exercises covering core language fundamentals, decision making, switch-case statements, and iterative programming. The repository will continue to expand with advanced topics such as number-based problem solving, pattern programming, arrays, strings, functions, pointers, and embedded C concepts.
