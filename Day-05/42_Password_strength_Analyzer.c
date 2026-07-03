@@ -3,7 +3,7 @@
 Program Name : Password Strength Analyzer
 Author       : MrLogeshrt
 Day          : 5
-Program No   : 42
+Program No   : 2
 Description  : Analyzes a 4-digit PIN by extracting and displaying its numerical 
                properties, including the sum of digits, largest digit, smallest digit, 
                and number of repeated digits. The program also determines PIN strength 
