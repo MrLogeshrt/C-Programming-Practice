@@ -32,7 +32,7 @@ int main()
 {
     int invoice;
 
-    // Read and validate the invoice number
+    // Read and validate the invoice number from the user
     do 
     {
         printf("\nEnter your Invoice number : ");

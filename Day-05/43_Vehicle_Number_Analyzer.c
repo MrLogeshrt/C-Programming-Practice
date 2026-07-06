@@ -30,7 +30,7 @@ int main()
 {
     int number = 0;
     
-    // Read and validate the 4-digit vehicle number 
+    // Read and validate the 4-digit vehicle number by getting input from the user 
     do
     {
         printf("\nEnter your Vehicle number : ");

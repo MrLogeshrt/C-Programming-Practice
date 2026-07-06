@@ -92,7 +92,7 @@ int main()
         }
     }
 
-    // Display the results
+    // Display the results with secure status
     printf("\nInput Number                : %d\n", num);
     printf("Palindrome Status           : %s\n", (num == reverse) ? "Palindrome" : "Not Palindrome");
     printf("Armstrong Number Status     : %s\n", (armstrong == num) ? "Armstrong" : "Not Armstrong");

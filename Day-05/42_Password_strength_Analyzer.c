@@ -30,7 +30,7 @@ int main()
 {
     int pin;
 
-    // Read and validate the 4-digit PIN from the user
+    // Read and validate the 4-digit PIN from the user.
     do
     {
         printf("\nEnter a 4-digit PIN : ");
@@ -48,7 +48,7 @@ int main()
         
     } while (pin < 1000 || pin > 9999);
 
-    // Initialize variables required for PIN analysis
+    // Initialize values to variables required for PIN analysis
     int sum = 0;
     int min = 9;  
     int max = 0;  

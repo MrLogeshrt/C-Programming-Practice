@@ -29,7 +29,7 @@ int main()
 {
     int acc_num = 0;
 
-    // Read and validate the account number
+    // Read and validate the account number from the user
     do
     {
         printf("\nEnter your Account number : ");

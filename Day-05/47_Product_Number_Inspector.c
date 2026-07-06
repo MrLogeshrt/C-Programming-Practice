@@ -68,7 +68,7 @@ int main()
         temp /= 10;
     }
 
-    // Display the results
+    // Display the results along with ascending and descending order
     printf("\nProduct Number  : %d\n", product_num);
     printf("Digits Count    : %d\n", count);
     printf("Highest Digit   : %d\n", max);

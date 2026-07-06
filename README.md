@@ -1,8 +1,9 @@
 # C Programming Practice Journey
 
 ![Language](https://img.shields.io/badge/Language-C-blue)
-![Programs](https://img.shields.io/badge/Programs-40%20Completed-success)
-![Days](https://img.shields.io/badge/Days-4%2F10-orange)
+![Programs](https://img.shields.io/badge/Programs-50%20Completed-success)
+![Days](https://img.shields.io/badge/Days-5%2F10-orange)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 
@@ -46,7 +47,7 @@ The learning plan is divided into multiple phases covering fundamental to interm
 | Day 02 | Decision Making Statements      | ✅ Completed |
 | Day 03 | Switch Case Statements          | ✅ Completed |
 | Day 04 | Loops and Iteration             | ✅ Completed |
-| Day 05 | Number-Based Problem Solving    | ⏳ Pending   |
+| Day 05 | Number-Based Problem Solving    | ✅ Completed |
 | Day 06 | Pattern Programming             | ⏳ Pending   |
 | Day 07 | Arrays                          | ⏳ Pending   |
 | Day 08 | Strings                         | ⏳ Pending   |
@@ -87,6 +88,10 @@ C-Programming-Practice/
 │   ├── ...
 │
 ├── Day-05/
+│   ├── README.md
+│   ├── 41_Employee_ID_Validator.c
+│   ├── 42_Password_Strength_Analyzer.c
+│   ├── ...
 │
 ├── Day-06/
 │
@@ -109,10 +114,10 @@ C-Programming-Practice/
 * [x] Day 02
 * [x] Day 03
 * [x] Day 04
+* [x] Day 05
 
 ## Upcoming Days
 
-* [ ] Day 05
 * [ ] Day 06
 * [ ] Day 07
 * [ ] Day 08
@@ -129,7 +134,7 @@ C-Programming-Practice/
 | Day 02 | Decision Making Statements, Nested Conditions, Input Validation, Logical Operators, Real-World Business Logic |
 | Day 03 | Switch Case Statements, Menu-Driven Programming, Scientific Calculations, Unit Conversions, Information Mapping, Business Logic Implementation, Product Billing Systems |
 | Day 04 | For Loop, While Loop, Do-While Loop, Nested Loops, Break, Continue, Counter-Controlled Iteration, Sentinel-Controlled Iteration, Running Totals, Maximum/Minimum Tracking, Statistical Analysis, Business Logic Applications |
-| Day 05 | To be updated                                                                                          |
+| Day 05 | Number Analysis, Digit Extraction, Palindrome Numbers, Armstrong Numbers, Strong Numbers, Perfect Numbers, Lucky Numbers, Number Validation, Mathematical Computations, Real-World Number Analysis Applications |
 | Day 06 | To be updated                                                                                          |
 | Day 07 | To be updated                                                                                          |
 | Day 08 | To be updated                                                                                          |
@@ -205,7 +210,7 @@ Throughout this journey, the focus has been on writing clean, maintainable, and 
 
 Current repository highlights include:
 
-- 40 well-documented C programs
+- 50 well-documented C programs
 - Real-world business scenario implementations
 - Menu-driven applications
 - Input validation and error handling
@@ -213,6 +218,7 @@ Current repository highlights include:
 - Consistent coding style and documentation
 - Beginner-to-intermediate learning progression
 - Recruiter-friendly GitHub portfolio structure
+- Comprehensive number analysis and mathematical problem-solving applications
 
 ---
 
@@ -232,7 +238,7 @@ The long-term goal of this repository is to build a strong programming foundatio
 
 # Milestones Achieved
 
-✅ Completed 40 C Programs
+✅ Completed 50 C Programs
 
 ✅ Mastered C Programming Fundamentals
 
@@ -248,6 +254,8 @@ The long-term goal of this repository is to build a strong programming foundatio
 
 ✅ Followed Consistent Coding Standards Across All Programs
 
+✅ Developed Advanced Number Analysis Applications Using Loops
+
 ---
 
 # Repository Statistics
@@ -255,8 +263,8 @@ The long-term goal of this repository is to build a strong programming foundatio
 | Metric | Count |
 |----------|---------|
 | Total Days Planned | 10 |
-| Days Completed | 4 |
-| Programs Completed | 40 |
+| Days Completed | 5 |
+| Programs Completed | 50 |
 | Language | C |
 | Repository Status | Active Development |
 
@@ -278,4 +286,4 @@ GitHub: **MrLogeshrt**
 
 🚀 Active Development
 
-Completed 40 practical C programming exercises covering core language fundamentals, decision making, switch-case statements, and iterative programming. The repository will continue to expand with advanced topics such as number-based problem solving, pattern programming, arrays, strings, functions, pointers, and embedded C concepts.
+Completed 50 practical C programming exercises covering C programming fundamentals, decision making, switch-case statements, iterative programming, and advanced number analysis. The repository will continue to expand with pattern programming, arrays, strings, functions, pointers, and embedded C concepts.

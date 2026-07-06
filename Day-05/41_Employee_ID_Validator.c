@@ -30,7 +30,7 @@ int main()
 {
     long long int id;
 
-    // Read the employee ID from the user
+    // Read the employee ID from the user as an input
     printf("\nEnter Employee ID : ");
     scanf("%lld", &id);
 

@@ -79,7 +79,7 @@ int main()
         num /= 10;
     }
 
-    // Display the results
+    // Display the results with lucky status
     printf("\nCustomer Number : %d\n", cust_num);
     printf("First Half Sum  : %d\n", first_half);
     printf("Second Half Sum : %d\n", second_half);
